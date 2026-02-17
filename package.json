@@ -1,0 +1,9 @@
+{
+  "name": "multi-sig-wallet",
+  "version": "1.0.0",
+  "description": "Secure and gas-optimized multi-signature wallet",
+  "devDependencies": {
+    "hardhat": "^2.19.0",
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
